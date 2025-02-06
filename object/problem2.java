@@ -7,10 +7,9 @@ class problem2{
     bikevar.bikeamount();
     
     }
-}
+}   
 
-   
- class bike{
+class bike{
      public void IngineStart(){
          System.out.println("bike ingine is started");
      }
