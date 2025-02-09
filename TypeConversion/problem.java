@@ -7,5 +7,10 @@ public class problem{
         int a=128;
         byte k=(byte)a;
         System.out.println(k);
+
+
+
     }
+
+  
 }
