@@ -1,8 +1,6 @@
-class problem1{
+public class problem1{
 public static void main(String[] args) {
-    // for(byte a=5;a<=10;a++){
-    //     System.out.println(a);
-    // }
+
 
     int num1=1;
     int num2=10;
