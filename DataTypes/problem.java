@@ -7,7 +7,11 @@ class problem{
         System.out.println(num);
 
         double a=10.;
-        System.out.print(a);
+        System.out.println(a);
+
+
+        System.out.println("Byte value"+Byte.MIN_VALUE+"max value"+Byte.MAX_VALUE);
+        System.out.println("short value"+Short.MIN_VALUE+"max value"+Short.MAX_VALUE);
 
     }
 }
