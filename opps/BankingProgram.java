@@ -4,7 +4,7 @@ public class BankingProgram {
         acc.accNo = "10004";
         acc.setBalance(10000);
         acc.accType = "Savings";
-
+        
         Account acc2 = new Account("10005",
                             20000,
                         "Current");
@@ -26,6 +26,8 @@ class Account {
     public Account() {
 
     }
+
+    
     // Encapsulation
     public void setBalance(double balance) {
         this.balance = balance;
